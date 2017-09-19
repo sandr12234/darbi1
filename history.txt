@@ -4,3 +4,36 @@
     4  cd darbi
     5  history
     6  history > history.txt
+    7  ls
+    8  ls -l
+    9  git init
+   10  sudo apt install git
+   11  git init
+   12  git add .
+   13  git config --global user.email sandr12234@gmail.com
+   14  git commit -m "20170913_19_01"
+   15  git remote add origin https://github.com/sandr12234/darbi1.git
+   16  git push origin master
+   17  firefox
+   18  ls -l
+   19  cd ..
+   20  cd darbi
+   21  git push origin master
+   22  username -r
+   23  uname -r
+   24  pwd
+   25  whoami
+   26  firefox
+   27  cd darbi
+   28  ls -a
+   29  ls -la
+   30  history
+   31  cat history.txt
+   32  echo 12345
+   33  x=10
+   34  echo x
+   35  echo $x
+   36  echo -e "12345"
+   37  echo -e "12345 \n12345"
+   38  history
+   39  history > history.txt
