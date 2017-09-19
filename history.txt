@@ -37,3 +37,20 @@
    37  echo -e "12345 \n12345"
    38  history
    39  history > history.txt
+   40  cat history.txt
+   41  git init
+   42  git add .
+   43  git push origin master
+   44  git config --global user.email sandr12234@gmail.com
+   45  git commit -m "20170919_20_44"
+   46  git remote add origin https://github.com/sandr122345/darbi1
+   47  git push origin mater
+   48  git push origin master
+   49  git init
+   50  git add .
+   51  git config --global user.email sandr12234@gmail.com
+   52  git commit -m "20170919_20_44"
+   53  git remote add origin https://github.com/sandr122345/darbi2.git
+   54  git push origin master
+   55  history
+   56  history > history.txt
